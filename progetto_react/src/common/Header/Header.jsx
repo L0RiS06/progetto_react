@@ -1,6 +1,7 @@
 import React from 'react'
-import logo from "../../logo.svg"
+import logo from "../../label-2780146_1280.png"
 import './Header.css'
+
 
 const Header = () => {
   return (
@@ -9,7 +10,8 @@ const Header = () => {
         <img src={logo} alt="logo" className='logo' />
         <nav>
             <ul className='menu'>
-                <li>Menu</li>
+            <li>Menu</li>
+                <li>About</li>
             </ul>
         </nav>
         </div>
