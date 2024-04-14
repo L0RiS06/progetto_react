@@ -1,5 +1,21 @@
-#footer {
+footer {
     background-color: burlywood;
-    padding: 20px 0;
+    width: 100%;
+    padding: 20 px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
+
+.logo{
+    width: 100px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+
+
+
 

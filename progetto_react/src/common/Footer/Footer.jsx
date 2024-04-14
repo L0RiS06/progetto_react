@@ -6,7 +6,7 @@ import logo2 from '../../instagram-1581266_1280.jpg'
 const Footer = () => {
   return (
     <footer id="footer">
-        <div className='wrapper'>
+        <div className='footer'>
             <img src={logo1} alt="logo1" className='logo'/>
             <img src={logo2} alt="logo2" className='logo'/>
         </div>

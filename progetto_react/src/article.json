@@ -1,0 +1,77 @@
+[
+    {
+      "image": "https://img.freepik.com/premium-photo/wet-glass-transparent-bottle-pure-water-without-label-isolated-white-background_875825-46131.jpg?w=1380",
+      "title": "Water",
+      "price": "2.00€"
+    },
+    {
+      "image": "https://img.freepik.com/premium-photo/opened-can-soft-drink-closeup-white-background_752567-1438.jpg?w=1380",
+      "title": "Coca-cola",
+      "price": "3.00€"
+    },
+    {
+      "image": "https://img.freepik.com/free-psd/wine-bottle-mockup_1318-873.jpg?w=740&t=st=1713119000~exp=1713119600~hmac=bf78a6ee216ebfe6b15cb681da632f28d1138e583d8b938d7ecf763d6988f68d",
+      "title": "Wine",
+      "price": "7.00€"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/delicious-snacks-wooden-board_144627-43448.jpg?t=st=1713121246~exp=1713124846~hmac=c54f9c5536985138d49d5236dd90325ac3f3dee452e7de95dd78c0742d61655e&w=1060",
+      "title": "Salami and cheese plate",
+      "price": "7.00€"
+    },
+    {
+      "image": "https://img.freepik.com/premium-photo/traditional-italian-dish-spaghetti-carbonara-with-bacon-cream-sauce-black-wooden-background-top-view-flat-lay_249006-21675.jpg?w=740",
+      "title": "Spaghetti carbonara",
+      "price": "8.00€"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/spaghetti-with-meatballs-wooden-table_123827-30642.jpg?t=st=1713119294~exp=1713122894~hmac=121ef1e38171b33d87f090d96a40a00bc6ea6ab2405937f86510a120054fff84&w=1380",
+      "title": "Spaghetti with ragù",
+      "price": "8.00€"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/top-view-smoked-fish-clay-plate_176474-3448.jpg?t=st=1713119372~exp=1713122972~hmac=cf750a3e3a2d4ae7745963a80b884a150834e4a8f721608fcdd72b1f2adcc025&w=740",
+      "title": "Fish",
+      "price": "14.00€"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/tender-juicy-veal-steak-medium-rare-with-french-fries_2829-19637.jpg?t=st=1713121288~exp=1713124888~hmac=7c8b7bf71a7b9cf070c2f8fe349a54d4b87f3f5bef227733ad5260974bf100b0&w=996",
+        "title": "Steak and chips",
+        "price": "10.00€"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/vertical-closeup-shot-delicious-sandwich-chopping-board_181624-35634.jpg?t=st=1713121552~exp=1713125152~hmac=2fce7cbed8a9a360490049c465fd23b9d54cabad03c1e581cfaa45a6d2de24f6&w=740",
+        "title": "Hamburger",
+        "price": "5.00€"
+    },
+    {
+       "image": "https://img.freepik.com/premium-photo/bowl-yellow-risotto-rice-with-saffron-threads_126745-1432.jpg?w=1380",
+        "title": "Rice",
+        "price": "7.00€"
+    },
+    {
+       "image": "https://img.freepik.com/free-photo/mixed-sushi-set-japanese-food_1339-3619.jpg?t=st=1713121694~exp=1713125294~hmac=ad63008d8c28c6bc3988b455ecd921e265a19f50f3e90dd27c890aaa4bfa0c20&w=740",
+        "title": "Sushi",
+        "price": "8.00€"
+    },
+    {
+       "image": "https://img.freepik.com/free-photo/close-up-italian-pizza-about-cheese-it-stick-selective-focus-generative-ai_1258-153047.jpg?t=st=1713119128~exp=1713122728~hmac=6f716c019056994a77b7e6e8eaf9f92020695584a8823635b815ecbf376826d5&w=1380",
+        "title": "Pizza",
+        "price": "6.00€"
+    },
+    {
+       "image": "https://img.freepik.com/free-photo/delicious-berry-pie-marble-surface_114579-73401.jpg?t=st=1713121745~exp=1713125345~hmac=a0f9f42ed90c60bd2feb7c0fb6d276a8ebcbde4dc8c09e907d59c39b2c803e76&w=1380",
+        "title": "Crostata",
+        "price": "7.00€"
+    },
+    {
+       "image": "https://img.freepik.com/free-photo/high-angle-delicious-mexican-dessert_23-2149517096.jpg?t=st=1713119392~exp=1713122992~hmac=9bc0449b4fae6f19bf1a40fa75eab4d32bf8fe7a8193b04223af4025da89be3a&w=740",
+        "title": "English soup",
+        "price": "6.00€"
+    },
+    {
+       "image": "https://img.freepik.com/free-photo/close-up-fancy-dessert_23-2150527560.jpg?t=st=1713121830~exp=1713125430~hmac=70d77b6658ebb41be9d939fe93e8cf799740320d9592c99e72eeabc56e41e435&w=1380",
+        "title": "Tiramisù",
+        "price": "7.00€"
+    }                    
+  ]
