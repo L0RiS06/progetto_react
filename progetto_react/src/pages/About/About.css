@@ -1,4 +1,24 @@
+.about {
+    background: url("./../../istockphoto-1409730000.jpg") no-repeat;
+    background-size: cover;
+    display: flex;
+    margin: 0px;
+    height: 700px;
+    width: auto;
+    align-items: center;
+}
+
 .h1 {
+    color: white;
+    font-weight: bolder;
+    margin: auto;
+    vertical-align:middle;
+    text-align: center;
+}
+
+.h6 {
+    color: white;
+    font-weight: bolder;
     text-align: center;
 }
 

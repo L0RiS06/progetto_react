@@ -1,7 +1,7 @@
 import React from 'react'
 import './Footer.css'
 import logo1 from '../../facebook-770688_1280.png'
-import logo2 from '../../instagram-1581266_1280.jpg'
+import logo2 from '../../instagramLogo.png'
 
 const Footer = () => {
   return (

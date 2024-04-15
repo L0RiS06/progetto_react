@@ -1,11 +1,18 @@
 .body {
-    background-image: url('./../../restaurant-1837150_1280.jpg');
+    background: url("./../../restaurant-1837150_1280.jpg") no-repeat;
     background-size: cover;
-    background-position: center;
+    display: flex;
+    margin: 0px;
+    height: 700px;
+    width: auto;
+    align-items: center;
 }
 
 .h1 {
-    text-align: center;
+    color: white;
+    font-weight: bolder;
+    margin:auto;
+    vertical-align:middle;
 }
 
 
